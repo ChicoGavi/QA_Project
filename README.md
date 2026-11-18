@@ -71,7 +71,7 @@ SUPABASE_KEY=tu_anon_public_key
 npm run dev
 ```
 
-El servidor quedará disponible en http://localhost:3000. Puedes verificar su estado en GET http://localhost:3000/health.
+El servidor quedará disponible en https://qa-project-usdx.onrender.com. Puedes verificar su estado en GET https://qa-project-usdx.onrender.com/health
 
 4. Compilar y ejecutar en producción (opcional):
 ```
